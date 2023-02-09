@@ -1,4 +1,4 @@
-# Tambury Gazette Stories (Workig title)
+# Tomberry Gazette Stories
 
 ## Infos
 * Location: x34.0; Y:30.6 (Das Fenn, Gyr Abania) - Unten im Keller / am Salzssee-Ausgang
