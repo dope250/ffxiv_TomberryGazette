@@ -1,0 +1,1 @@
+asciidoctor-pdf -a pdf-theme=theme/styling.yml index.adoc

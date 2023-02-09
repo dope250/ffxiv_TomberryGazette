@@ -1,0 +1,8 @@
+extends: default
+footer:
+  recto:
+    right:
+      content: A recto page
+  verso:
+    left:
+      content: A verso page
